@@ -18,7 +18,7 @@ export default class SearchBar extends Component {
     // Stop default browser submit
     event.preventDefault();
 
-    // Fetch weather data
+    // Fetch weather data when user submit -> API request
   }
 
   render() {
